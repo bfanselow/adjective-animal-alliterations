@@ -35,7 +35,7 @@
 #### External Resources:
  * **Adjectives**: https://www.datamuse.com/api - Free api for various word queries.
  
- * **Animals**:    https://a-z-animals.com/animals -  Did a one-time *beautifulsoup4* scrap 
+ * **Animals**:    https://a-z-animals.com/animals -  Did a one-time *beautifulsoup4* scrape 
                     of this site to generate a static dictionary contained within this file 
                     for simplicity.
 
