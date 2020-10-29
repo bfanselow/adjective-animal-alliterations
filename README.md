@@ -29,7 +29,7 @@
 ```
  $ python3 -m venv venv
  $ . venv/bin/activate
- (venv) $ pip install requests
+ (venv) $ pip install -r requirements.txt
 ```
 
 #### External Resources:
