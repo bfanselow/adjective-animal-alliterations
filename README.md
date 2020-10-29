@@ -1,6 +1,6 @@
 # "Adjective Animal" Allliterations
 
-### Creates random lists of "adjective animal" combinations where both start with a specific letter
+### Creates random lists of "adjective animal" combinations where both start with a specified letter
 
 #### Basic processing logic
   * Grab list of animals from static dict having specified first letter
