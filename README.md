@@ -2,6 +2,8 @@
 
 ### Creates random lists of "adjective animal" combinations where both start with a specified letter
 
+#### Scriptname: *laughing_lemur.py*
+
 #### Basic processing logic
   * Grab list of animals from static dict having specified first letter
   * Query datamuse API for list of dictionary words having the same specified first letter
@@ -31,9 +33,9 @@
 ```
 
 #### External Resources:
- * Adjectives: https://www.datamuse.com/api - Free api for various word queries.
+ * **Adjectives**: https://www.datamuse.com/api - Free api for various word queries.
  
- * Animals:    https://a-z-animals.com/animals -  Did a one-time beautiful-soup scrap 
+ * **Animals**:    https://a-z-animals.com/animals -  Did a one-time beautiful-soup scrap 
                     of this site to generate a static dictionary contained within this file 
                     for simplicity.
 
