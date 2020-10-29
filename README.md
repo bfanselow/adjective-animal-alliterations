@@ -1,6 +1,6 @@
 # "Adjective Animal" Allliterations
 
-### Creates random lists of "adjective animal" combinations where both start with a specified letter
+### Create random lists of "adjective animal" combinations where both start with a specified letter
 
 #### Scriptname: *laughing_lemur.py*
 
