@@ -19,7 +19,9 @@
 ```
   $ laughing_lemur.py <LETTER>
      Example: 
-      $ laughing_lemur.py B  --->  "brave baboon"
+      $ laughing_lemur.py B
+      brave baboon
+      
      Optional args: 
        --list <N>: create a list of <N> "adjective animal" alliterations 
        --show: show all animals and adjectives for the specified letter 
